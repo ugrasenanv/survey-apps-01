@@ -3,8 +3,8 @@ import { User } from '../model/user';
 
 const INITIAL_STATE: User[] = [{
 		"id": 1,
-		"first_name": "Farlie",
-		"last_name": "Rehn",
+		"firstName": "Farlie",
+		"lastName": "Rehn",
 		"email": "frehn0@nasa.gov",
 		"gender": "Male",
 		"phoneNumber": "751-527-6224",
@@ -14,8 +14,8 @@ const INITIAL_STATE: User[] = [{
 	},
 	{
 		"id": 2,
-		"first_name": "Katie",
-		"last_name": "D'Onisi",
+		"firstName": "Katie",
+		"lastName": "D'Onisi",
 		"email": "kdonisi1@oracle.com",
 		"gender": "Female",
 		"phoneNumber": "726-155-2518",
@@ -25,8 +25,8 @@ const INITIAL_STATE: User[] = [{
 	},
 	{
 		"id": 3,
-		"first_name": "Maxwell",
-		"last_name": "Rushbury",
+		"firstName": "Maxwell",
+		"lastName": "Rushbury",
 		"email": "mrushbury2@nasa.gov",
 		"gender": "Male",
 		"phoneNumber": "404-280-5007",
@@ -36,8 +36,8 @@ const INITIAL_STATE: User[] = [{
 	},
 	{
 		"id": 4,
-		"first_name": "Shaine",
-		"last_name": "Paxman",
+		"firstName": "Shaine",
+		"lastName": "Paxman",
 		"email": "spaxman3@infoseek.co.jp",
 		"gender": "Male",
 		"phoneNumber": "672-464-8390",
@@ -47,8 +47,8 @@ const INITIAL_STATE: User[] = [{
 	},
 	{
 		"id": 5,
-		"first_name": "Graham",
-		"last_name": "Stranahan",
+		"firstName": "Graham",
+		"lastName": "Stranahan",
 		"email": "gstranahan4@sfgate.com",
 		"gender": "Male",
 		"phoneNumber": "868-875-3167",
@@ -58,8 +58,8 @@ const INITIAL_STATE: User[] = [{
 	},
 	{
 		"id": 6,
-		"first_name": "Garret",
-		"last_name": "Aubry",
+		"firstName": "Garret",
+		"lastName": "Aubry",
 		"email": "gaubry5@xing.com",
 		"gender": "Male",
 		"phoneNumber": "697-967-9400",
