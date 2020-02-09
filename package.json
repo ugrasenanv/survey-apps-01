@@ -2,6 +2,8 @@
   "name": "survery app",
   "version": "1.0.0",
   "private": true,
+   "keywords": ['survery','login', 'multi user' ],
+   "author": "Vellaichamy U",
   "dependencies": {
     "@angular/cdk": "5.0.0-rc.3",
     "@angular/common": "8.2.0",
