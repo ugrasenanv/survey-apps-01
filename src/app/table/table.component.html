@@ -3,11 +3,6 @@
   <tr>
     <th *ngFor="let c of displayColumns">{{c}}</th>
   </tr>
-  <!-- <tr *ngFor="let ch of dataSource | async" 
-      app-table-row 
-      [character]="ch" 
-      [columns]="columns">
-  </tr> -->
    <tr *ngFor="let char of users$ | async">
     <td *ngFor="let col of displayColumns">
       {{char[col]}}
